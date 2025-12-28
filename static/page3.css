@@ -1,0 +1,48 @@
+body {
+    background-image:url("fooon.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family:cursive;
+}
+
+
+.glass-card {
+      width: 400px;
+    height: 300px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 30px rgb(0, 0, 0);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    color: black;
+    text-align: center;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+}
+
+.logobg {
+    width:500px;
+    margin:0;
+    display:block;
+}
+
+h1 {
+    font-size:2em;
+}
+
+h1:hover {
+       letter-spacing: 2px;
+    transition: 0.3s;
+    color: black;
+   text-shadow: 2px 2px 5px block;
+}
+
+p {
+    font-size:1.5em;
+}
+
+li {
+    font-size:1.5em;
+}
