@@ -1,5 +1,5 @@
 body {
-    background-image:("nnnn.jpg");
+    background-image:url("nnnn.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     font-family:cursive;
